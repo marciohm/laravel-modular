@@ -1,0 +1,21 @@
+{
+    "name": "marciorosa/blog",
+    "description": "",
+    "authors": [{
+        "name": "Marcio Rosa",
+        "email": "marciohm@gmail.com"
+    }],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Son\\Blog\\": ""
+        }
+    }
+}
